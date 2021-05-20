@@ -2,7 +2,7 @@
 GNU FreeSerif font for groff and GhostScript, so you can output to any groff output device and any GhostScript output device with FreeSerif font.
 
 ## INSTALLATION
-Move the files inside the exact directories in /usr/share/
+Run the isntall script with sudo privilages.
 
 ## A few words
 I wanted to type and output in greek in my groff documents, outputing in PostScript.
